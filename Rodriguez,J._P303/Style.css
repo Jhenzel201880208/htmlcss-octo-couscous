@@ -1,0 +1,13 @@
+table{
+   background-color:  #87CEFA;
+}
+tr:nth-child(even){
+    background-color: #66CDAA;
+}
+tr:nth-child(odd){
+    background-color:#FFE4E1;
+}
+}body{
+    background-image: url(medic.jpg);
+    background-color: #FFA07A;
+}

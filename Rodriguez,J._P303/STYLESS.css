@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+    background-color: aqua;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+#full_name{
+    color: #FF00FF;
+    border-color: #800080;
+    
+}
+#add{
+    color: #FF00FF;
+    border-color: #800080;
+}
+
+#cnum{
+    color: #FF00FF;
+    border-color: #800080;
+}
+
+#temp{
+     color: #FF00FF;
+    border-color: #800080;
+}
+
+    
+
+.button {
+  padding: 15px 25px;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
